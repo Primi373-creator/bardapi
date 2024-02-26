@@ -2,9 +2,9 @@
   "name": "bardapi",
   "version": "1.0.0",
   "description": "An Express app for interacting with Bard API",
-  "main": "index.js", // Replace with the actual filename of your main app file
+  "main": "index.js",
   "scripts": {
-    "start": "node index.js" // Replace with the actual filename of your main app file
+    "start": "node index.js"
   },
   "dependencies": {
     "express": "^4.17.1",
